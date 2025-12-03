@@ -74,9 +74,9 @@ São aqueles que descrevem as funcionalidades específicas que o sistema deve of
 
 •	RNF10 - Tempo de Carregamento: As páginas do portal (Página Inicial e Notícia Individual) devem ter um tempo de carregamento rápido (idealmente abaixo de 3 segundos) para garantir uma boa experiência ao usuário.
 
-O site conta com um código CSS que facilita o layout, além de utilizar um fundo claro e fonte padrão para todo o site, contribuindo para um visual moderno, usando elementos como <header>, <nav>, <main>, <section>, <article>, <aside> e <footer>, que facilitam a leitura e a acessibilidade..
+O site conta com um código CSS que facilita o layout, além de utilizar um fundo claro e fonte padrão para todo o site, contribuindo para um visual moderno, usando elementos como header, nav, main, section, article, aside, footer, que facilitam a leitura e a acessibilidade.
 Há utilização de códigos de efeito como por exemplo o "Transform" que tem a função principal de colocar um efeito no card ao passar o mouse, além da utilização de keyframes para a animação fade-in. O site também possuí uma barra de busca através do search-bar.
 Por fim, é importante ressaltar que o site pode ser acessado em diferentes navegadores e em diferentes tipos de telas, garantindo a responsividade para tablets e mobile, isso ocorre por meio da tag <meta name="viewport" ...>.
-O sidebar (<aside>) contém informações secundárias como por exemplo informações secundárias como categorias, notícias mais lidas e vídeos mais assistidos, que se movem para baixo do grid principal em telas menores, garantindo a responsividade.
+O sidebar aside contém informações secundárias como por exemplo informações secundárias como categorias, notícias mais lidas e vídeos mais assistidos, que se movem para baixo do grid principal em telas menores, garantindo a responsividade.
 O rodapé mantém informações de direitos autorais e links importantes, utilizando Flexbox para o alinhamento da navegação e aplicando o efeito de opacity por meio da utilização do :hover nos links.
 
